@@ -2,4 +2,8 @@ header {
     font-family: Veranda;
     font-weight: normal;
     font-size: 50px;
+    width: 100%;
+    justify-content: center;
+    align-items: center;
+    display: flex;
 }
