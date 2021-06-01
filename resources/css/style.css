@@ -1,9 +1,17 @@
-header {
-    font-family: Veranda;
+body {
+    background-color: black;
+    text-align: center;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+header h1 {
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
     font-weight: normal;
     font-size: 50px;
-    width: 100%;
-    justify-content: center;
-    align-items: center;
-    display: flex;
+    color: white;
+}
+
+header a {
+    color: aquamarine;
+    font-size: 16px;
 }
